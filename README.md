@@ -1,8 +1,8 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22OwenB115%22%2C%22name%22%3A%22Owen%20Boyd%22%2C%22email%22%3A%22boydowen115%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22PC%20Assembly%22%2C%22Troubleshooting%22%5D%2C%22headlines%22%3A%5B%22IT%20Professional%22%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22OwenB115%22%2C%22name%22%3A%22Owen%20Boyd%22%2C%22email%22%3A%22boydowen115%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A2%2C%22skills%22%3A%5B%22PC%20Assembly%22%2C%22Troubleshooting%22%5D%2C%22headlines%22%3A%5B%22IT%20Professional%22%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
-<img src="https://github.com/OwenB115.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
+<img src="https://github.com/OwenB115.png" width="150" style="border-radius:50%;border:4px solid #6e7781"/>
 
 # Hi there, I'm Owen Boyd
 
@@ -24,7 +24,7 @@
 
 ## Skills Learned
 
-🖥️ Tech Essentials: ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-0969da?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0969da?style=flat-square)
+🖥️ Tech Essentials: ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-6e7781?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-6e7781?style=flat-square)
 
 ---
 
